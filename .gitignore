@@ -105,3 +105,9 @@ dist
 
 # typescript
 build/
+
+# rust
+debug/
+target/
+**/*.rs.bk
+*.pdb
